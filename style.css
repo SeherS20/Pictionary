@@ -4,22 +4,25 @@ background: radial-gradient(circle, rgba(215,192,208,1) 0%, rgba(219,148,214,1) 
 font-family: 'Josefin Sans', sans-serif;
 }
 #score{
-    font-size: 40px;
-    margin-left: 70px;
+    font-size: 20px;
+    margin-left: 100px;
     float: left;
 }
 #timer{
-    font-size: 40px;
-    margin-right: 70px;
+    font-size: 20px;
+    margin-right: 100px;
     float: right;
 }
 h1{
-    font-size: 70px;
-    margin-top: 50px;
+    font-size: 50px;
 }
 #values{
     font-size: 20px;
 }
 #sketch_to_be_drawn{
     color: brown;
+}
+canvas{
+    margin-top: 100px;
+    border-radius: 30px;
 }
