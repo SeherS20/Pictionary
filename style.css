@@ -1,0 +1,25 @@
+body{
+    background: rgb(215,192,208);
+background: radial-gradient(circle, rgba(215,192,208,1) 0%, rgba(219,148,214,1) 31%, rgba(205,108,206,1) 60%, rgba(128,51,135,1) 100%);
+font-family: 'Josefin Sans', sans-serif;
+}
+#score{
+    font-size: 40px;
+    margin-left: 70px;
+    float: left;
+}
+#timer{
+    font-size: 40px;
+    margin-right: 70px;
+    float: right;
+}
+h1{
+    font-size: 70px;
+    margin-top: 50px;
+}
+#values{
+    font-size: 20px;
+}
+#sketch_to_be_drawn{
+    color: brown;
+}
